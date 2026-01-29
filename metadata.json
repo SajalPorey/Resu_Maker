@@ -1,0 +1,7 @@
+{
+  "name": "ResuMaster AI Elite",
+  "description": "An AI-powered resume builder, portfolio generator, and live interview coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
